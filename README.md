@@ -1,11 +1,14 @@
-# Global-Trust-Layer
-A free public, privacy-safe digital trust layer designed to support verification, compliance signaling, and trust certification across the web.
+# Global Trust Layer
+Free, privacy-safe public trust infrastructure layer for web verification, compliance signaling, and digital trust certification.*
 
+
+Global Trust Platform License (Community Infrastructure License)
+Version 1.0 – Public Infrastructure Use
 Copyright © 2026 Peacemedia
 All rights reserved.
 
-1. Permission is hereby granted, free 
- of charge, to any individual or organization to use, access, and interact with the iGlobal Trust Platform for non-commercial end-user purposes, including:
+1. Grant of Use (Free Forever for Users)
+Permission is hereby granted, free of charge, to any individual or organization to use, access, and interact with the iGlobal Trust Platform for non-commercial end-user purposes, including:
 Viewing trust signals
 Submitting verification data
 Using public dashboards
