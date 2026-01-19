@@ -15,8 +15,9 @@ Educational, research, and evaluation use
 
 This platform is intended to operate as public digital trust infrastructure, similar to DNS, HTTPS, or certificate authorities.
 
-3. Restrictions (What Is NOT Allowed)
-The following are explicitly prohibited without written permission:
+2. Restrictions (What Is 
+NOT Allowed)
+he following are explicitly prohibited without written permission:
 ▪︎ Reselling the platform or its outputs
 Offering “iGlobal-powered” services as your own product
 ▪︎ Running a competing trust, certification, or validation network
